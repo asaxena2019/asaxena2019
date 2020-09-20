@@ -1,6 +1,6 @@
-### hi there 👋 i'm Anushka (she/her/hers).
+### hi there 👋 i'm anushka (she/her/hers).
 
-- 💬 curr: electrical and computer eng **@carnegie mellon university**, director of events **[@scottylabs]** (https://github.com/ScottyLabs), abcs student **facebook**, fellow **@rewriting the code**, & ambassador **@built by girls**
+- 💬 curr: electrical and computer eng **@carnegie mellon university**, director of events [**@scottylabs**](https://github.com/ScottyLabs), abcs student **facebook**, fellow **@rewriting the code**, & ambassador **@built by girls**
 - 🖥 prev: technical analyst intern **@bank of america**, extern **@cisco**
 - 🌱 interested in the intersection of technology with society, particularly in education and sustainability
 - 🔭 looking for Summer 2021 internships! reach me at anushka2@andrew.cmu.edu or my [website](http://anushkasaxena.me/)
