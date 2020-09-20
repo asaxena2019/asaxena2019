@@ -1,9 +1,9 @@
-### Hi there 👋 I'm Anushka (she/her/hers).
+### hi there 👋 i'm Anushka (she/her/hers).
 
-- 🌱 I'm an Electrical and Computer Engineering major at **Carnegie Mellon University**. I am the Director of Events at [ScottyLab](https://scottylabs.org/) and one of the organizers of [TartanHacks](http://tartanhacks.com/).
-- 🔭 I am currently looking for Summer 2021 internships. I've been working my software development and machine learning skills through projects, hackathons, and volunteering initiatives.
-- 💬 Feel free to talk to me about the intersection of technology with education, society, and sustainability.
-- 📫 You can reach me at anushka2@andrew.cmu.edu or my [website](http://anushkasaxena.me/) (created on Github Pages).
+- 💬 curr: electrical and computer eng **@carnegie mellon university**, director of events **[@scottylabs]** (https://github.com/ScottyLabs), abcs student **facebook**, fellow **@rewriting the code**, & ambassador **@built by girls**
+- 🖥 prev: technical analyst intern **@bank of america**, extern **@cisco**
+- 🌱 interested in the intersection of technology with society, particularly in education and sustainability
+- 🔭 looking for Summer 2021 internships! reach me at anushka2@andrew.cmu.edu or my [website](http://anushkasaxena.me/)
 
 <!--
 **asaxena2019/asaxena2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
