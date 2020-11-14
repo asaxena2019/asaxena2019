@@ -5,6 +5,12 @@
 - 🌱 interested in the intersection of technology with society, education and sustainability
 - 🔭 looking for summer 2021 internships! check out my [website](http://anushkasaxena.me/) and let's chat :)
 
+some stats:
+[![Anushka's github stats](https://github-readme-stats.vercel.app/api?username=asaxena2019&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **asaxena2019/asaxena2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
